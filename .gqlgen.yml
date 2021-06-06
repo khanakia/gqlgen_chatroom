@@ -1,0 +1,3 @@
+models:
+  Chatroom:
+    model: github.com/khanakia/chatexample/chat.Chatroom
